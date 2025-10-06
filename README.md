@@ -101,13 +101,14 @@ Advantages: Controls tone and perspective effectively for domain-specific summar
 Limitations: May create bias or overly formal language if the role is too restrictive.
 
 
+
 4. AI PLATFORMS EVALUATED
    
 ![WhatsApp Image 2025-10-06 at 08 31 13_8f175a10](https://github.com/user-attachments/assets/2e3a724b-c972-4d88-bd81-e1aa9c4c3596)
 
 
 
-6. METHODOLOGY
+5. METHODOLOGY
 DATASET USED
 
 Five diverse text sources were selected for testing:
